@@ -1,4 +1,4 @@
-(https://daf2-documentation.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/daf2-documentation/badge/?version=latest)](https://daf2-documentation.readthedocs.io/en/latest/?badge=latest)
 # Introduction
 DAF2 (DA Friends 2) is a helper tool for Diggy's Adventure, the game developed by Pixel Federation. It is 
 distributed as a browser plugin and the official website is https://www.facebook.com/Chrome.DA.Friends 
