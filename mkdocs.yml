@@ -1,0 +1,9 @@
+site_name: DAF2 Documentation
+
+nav:
+    - Home: index.md
+    - About: about.md 
+    - Progress: progress.md 
+    - Camp: camp.md
+
+theme: readthedocs
