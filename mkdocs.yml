@@ -5,5 +5,8 @@ nav:
     - About: about.md 
     - Progress: progress.md 
     - Camp: camp.md
+    - Howto:
+        - 'Generate reward links': howto/generateRewardLinks.md
+        - 'Manage neighbours': howto/manageNeighbour.md
 
 theme: readthedocs
