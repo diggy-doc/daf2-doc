@@ -6,9 +6,9 @@ sure that there is ‘Add Friend’ button on your Facebook profile. Below is th
 
 Steps to enable 'Add Friend' button:
 ----
- 1. In the top right corner of Facebook, click the triangle![Image](images/addMeStep1.png)
+ 1. In the top right corner of Facebook, click the triangle![Image](images/settingStep1.png)
  2. Click Setting & privacy 
- 3. Click Settings ![Image](images/addMeStep3.png)
+ 3. Click Settings ![Image](images/settingStep3.png)
  4. Click Privacy ![Image](images/addMeStep4.png)
  5. Under Privacy Settings and Tools, change the setting of ‘How people can find and contact you’ to ‘Everyone’
 

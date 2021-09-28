@@ -1,12 +1,13 @@
 site_name: DAF2 Documentation
 
 nav:
-    - About: about.md 
-    - Progress: progress.md 
-    - Camp: camp.md
+    - About: stub.md
+    - Progress: stub.md
+    - Camp: stub.md
     - Howto:
-        - 'Generate reward links': 'howto/generateRewardLinks.md'
-        - 'Manage neighbours': 'howto/manageNeighbour.md'
+        - 'Generate reward links': stub.md
+        - 'Manage neighbours': stub.md
         - 'Enable Add Me button': 'howto/facebook/addMe.md'
+        - 'Secure friend list': 'howto/facebook/onlyMe.md'
 
 theme: readthedocs
