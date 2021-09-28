@@ -5,7 +5,8 @@ nav:
     - Progress: progress.md 
     - Camp: camp.md
     - Howto:
-        - 'Generate reward links': howto/generateRewardLinks.md
-        - 'Manage neighbours': howto/manageNeighbour.md
+        - 'Generate reward links': 'howto/generateRewardLinks.md'
+        - 'Manage neighbours': 'howto/manageNeighbour.md'
+        - 'Enable Add Me button': 'howto/facebook/addMe.md'
 
 theme: readthedocs
