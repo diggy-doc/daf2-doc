@@ -3,8 +3,11 @@ site_name: DAF2 Documentation
 nav:
     - About: stub.md
     - Progress: stub.md
-    - Camp: stub.md
+    - Camp: camp.md
     - Howto:
+        - 'Facebook related': stub.md
+            - 'Item 1': stub.md
+            - 'Item 2': stub.md
         - 'Generate reward links': stub.md
         - 'Manage neighbours': stub.md
         - 'Enable Add Me button': 'howto/facebook/addMe.md'

@@ -1,7 +1,7 @@
 It is very common that in the Facebook group, in the "Add me" poll there is an option for "Secure friend list is a 
 must" or similar wording. The 'Secure friend list' means that no one else could see who your friends are except 
-mutual friends. The friend with secure friend list would like below which only displays the mutual friends 
-![Image](images/secureList.jpg). 
+mutual friends. The friend with secure friend list would like below which only displays the mutual friends. 
+![Image](images/secureList.jpg) 
 The insecure one will display all your friends like below, which means that your friends have the potential risk of 
 being contacted by scammers. ![Image](images/insecureList.jpg)
 
