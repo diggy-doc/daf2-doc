@@ -4,13 +4,11 @@ nav:
     - About: stub.md
     - Progress: stub.md
     - Camp: camp.md
-    - Howto:
-        - 'Facebook related': stub.md
-            - 'Item 1': stub.md
-            - 'Item 2': stub.md
+    - 'How to':
+        - Facebook related:
+            - 'Enable Add Me Button': 'howto/facebook/addMe.md'
+            - 'Secure Friend List': 'howto/facebook/onlyMe.md'
         - 'Generate reward links': stub.md
         - 'Manage neighbours': stub.md
-        - 'Enable Add Me button': 'howto/facebook/addMe.md'
-        - 'Secure friend list': 'howto/facebook/onlyMe.md'
 
 theme: readthedocs

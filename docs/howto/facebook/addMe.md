@@ -1,3 +1,4 @@
+#Enable Add Me Button
 Facebook neighbours could help your diggy progress dramatically. It is crucial to be able to add friends or be added 
 as friends. 
 If you want to receive friend requests or put yourself onto the add me poll in facebook groups, then please make 
