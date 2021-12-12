@@ -5,10 +5,22 @@ nav:
     - Progress: stub.md
     - Camp: camp.md
     - 'How to':
+        - General:
+            - 'Contact Support': stub.md
+            - 'Find player id': stub.md
+            - 'Missing tiles': stub.md
+            - 'Solve does not load issue': stub.md
+            - 'Solve Double Reward Ad Does Not Work': stub.md
+            - 'Invite Friends': stub.md
+            - 'Use Windmills': stub.md
+            - 'Deal with unused event material': stub.md
+            - 'Receive Freebies': stub.md
         - Facebook related:
             - 'Enable Add Me Button': 'howto/facebook/addMe.md'
             - 'Secure Friend List': 'howto/facebook/onlyMe.md'
-        - 'Generate reward links': stub.md
-        - 'Manage neighbours': stub.md
+        - DAF:
+            - 'Generate reward links': stub.md
+            - 'Manage neighbours': stub.md
+            - 'Tiered offer': 'howto/DAF2/tieredOffer.md'
 
 theme: readthedocs
