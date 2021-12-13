@@ -18,9 +18,7 @@ nav:
         - Facebook related:
             - 'Enable Add Me Button': 'howto/facebook/addMe.md'
             - 'Secure Friend List': 'howto/facebook/onlyMe.md'
-        - DAF:
-            - 'Generate reward links': stub.md
-            - 'Manage neighbours': stub.md
-            - 'Tiered offer': 'howto/daf2/tieredOffer.md'
+            - 'Generate reward links': 'howto/daf2/tieredOffer.md'
+            - 'Manage neighbours': 'howto/facebook/onlyMe.md'
 
 theme: readthedocs
