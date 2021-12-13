@@ -1,10 +1,9 @@
 # Tiered Offer
 
-Tiered offer was firstly introduced in Nov 2018 with only one type. Multiple-type became available 
+Tiered offer was firstly introduced in Nov 2018 with only one type. Multiple-type first became available in Dec 2019 
+with 3 types and turned into the current form (5 types) in May 2020. 
 
 ### Current form
-
-There are 5 Types:
 
 | Type | Cost | Number of Regen | Number of Capacity | Green Rings | Low value consumables | High value consumables |
 |------|------|:---------------:|:------------------:|:-----------:|:---------------------:|:----------------------:|
@@ -16,6 +15,9 @@ There are 5 Types:
 
 \*  Type B equipments have worse values than C and D
 \*\*  Type E equpments have better values than C and D 
+
+### Old offers
+pictures to attach?
 
 ### How it works
 

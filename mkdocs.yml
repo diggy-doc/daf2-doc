@@ -21,8 +21,6 @@ nav:
         - DAF:
             - 'Generate reward links': stud.md
             - 'Manage neighbours': 'howto/facebook/onlyMe.md'
-            - 'Test 1': 'howto/DAF2/tieredOffer.md'
-            - 'Test 2': 'howto/daf2/tieredOffer.md'
-            - 'Test 3': 'howto/facebook/tieredOffer.md'
+            - 'Tiered offer': 'howto/DAF2/tieredOffer.md'
 
 theme: readthedocs
