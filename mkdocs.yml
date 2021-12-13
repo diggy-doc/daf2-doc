@@ -21,6 +21,6 @@ nav:
         - DAF:
             - 'Generate reward links': stub.md
             - 'Manage neighbours': stub.md
-            - 'Tiered offer': 'howto/DAF2/tieredOffer.md'
+            - 'Tiered offer': 'howto/daf2/tieredOffer.md'
 
 theme: readthedocs
