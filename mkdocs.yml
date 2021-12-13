@@ -19,7 +19,10 @@ nav:
             - 'Enable Add Me Button': 'howto/facebook/addMe.md'
             - 'Secure Friend List': 'howto/facebook/onlyMe.md'
         - DAF:
-            - 'Generate reward links': 'howto/facebook/tieredOffer.md'
+            - 'Generate reward links': stud.md
             - 'Manage neighbours': 'howto/facebook/onlyMe.md'
+            - 'Test 1': 'howto/DAF2/tieredOffer.md'
+            - 'Test 2': 'howto/daf2/tieredOffer.md'
+            - 'Test 3': 'howto/facebook/tieredOffer.md'
 
 theme: readthedocs

@@ -29,5 +29,5 @@ and so on. Please remember the Type could not be altered after purchasing Tier 1
 In Equipment/Shop section of DAF2, on the top right, there is a Tiered Offer button to view the details of current live 
 Tiered offer. There is no fixed answer that which one suits you the best. It depends on the gem amount, the region 
 you are in and whether you spend cash buying Packs. For example, in the early regions, the equipments in Type E will 
-be worse than the ones in the later regions. In this case, Type D would be the best option, 195 gem to get a regen 
-which normally costs 395 in the weekly Special offer.
+be worse than the ones in the later regions. In this case, Type D would be the best option, tier 1 costs 195 gems to 
+get a regen which normally costs 395 gems in the weekly Special offer.
