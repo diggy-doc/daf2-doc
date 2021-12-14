@@ -17,5 +17,5 @@ manageable with the help of DAF2.
       stone list
    3. If the number of ‘in custom list’ list is greater: some neighbours have cleared their camp but not removed from 
          the stone list. Find them and remove.
-   4. This could be achieved by using the Advanced filter -> formula (blocks > 0)<>(list=1) 
+   4. This could be achieved by using the Advanced filter -> formula (blocks > 0)<>(list=1) More details [here](neighbourFilter.md)
 

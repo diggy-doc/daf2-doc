@@ -21,7 +21,8 @@ nav:
             - 'Hard Sync': 'howto/facebook/hardSync.md'
         - DAF:
             - 'Generate reward links': stud.md
-            - 'Manage neighbours': 'howto/DAF2/manageNeighbours'
+            - 'Manage neighbours': 'howto/DAF2/manageNeighbours.md'
+            - 'Advanced filtering in Neighbours': 'howto/DAF2/neighbourFilter.md'
             - 'Tiered offer': 'howto/DAF2/tieredOffer.md'
 
 theme: readthedocs
