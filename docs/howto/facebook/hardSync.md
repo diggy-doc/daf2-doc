@@ -4,8 +4,8 @@ need to be carried out frequently.
 To sync friend list (making the newly added friend to be shown in the game given those friends have the correct 
 settings), simply click the friend sync button in the Friends interface ![Image](images/friendSync.jpg)
 
-Hard Sync should be used as the last resort, for example the friend list shows the friends as Player not their name!
-[Image](images/shownAsPlayer.jpg).
+Hard Sync should be used as the last resort, for example the friend list shows the friends as Player not their name 
+![Image](images/shownAsPlayer.jpg).
 
 ### Reinstall your game on Facebook, please take these steps 
 Please do not worry, reinstalling the game on Facebook will not erase your game progress. But it is always a good 
