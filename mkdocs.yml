@@ -20,7 +20,7 @@ nav:
             - 'Secure Friend List': 'howto/facebook/onlyMe.md'
             - 'Hard Sync': 'howto/facebook/hardSync.md'
         - DAF:
-            - 'Generate reward links': stud.md
+            - 'Generate reward links': 'howto/DAF2/rewardLinks.md'
             - 'Manage neighbours': 'howto/DAF2/manageNeighbour.md'
             - 'Advanced filtering in Neighbours': 'howto/DAF2/neighbourFilter.md'
             - 'Tiered offer': 'howto/DAF2/tieredOffer.md'
